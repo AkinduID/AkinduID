@@ -1,3 +1,5 @@
+
+<h3 align="left">Github Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akinduid&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=1a101c25&icon_color=9595ea&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinduid&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only" height="150" alt="languages graph"  />
@@ -5,7 +7,7 @@
 
 ###
 
-<p align="left">Teck Stack</p>
+<h3 align="left">Teck Stack</h3>
 
 ###
 
@@ -39,7 +41,7 @@
 
 ###
 
-<p align="left">Connect with Me</p>
+<h3 align="left">Connect with Me</h3>
 
 ###
 
