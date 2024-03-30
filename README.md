@@ -14,80 +14,104 @@
 
 <div align="left">
   <!-- Programming Languages -->
-  <h4>Programming Languages:</h4>
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.iso.org/standard/74528.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Programming Languages:</h4>
+    <a href="https://www.python.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://isocpp.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.iso.org/standard/74528.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+    </a>
+  </div>
+
   <!-- Databases -->
-  <h4>Databases:</h4>
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Databases:</h4>
+    <a href="https://www.mysql.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Frameworks -->
-  <h4>Frameworks:</h4>
-  <a href="https://opencv.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Frameworks:</h4>
+    <a href="https://opencv.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Hardware Platforms -->
-  <h4>Hardware Platforms:</h4>
-  <a href="https://www.arduino.cc/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.raspberrypi.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Hardware Platforms:</h4>
+    <a href="https://www.arduino.cc/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.raspberrypi.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Operating Systems -->
-  <h4>Operating Systems:</h4>
-  <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Operating Systems:</h4>
+    <a href="https://www.linux.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.microsoft.com/en-us/windows/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Version Control -->
-  <h4>Version Control:</h4>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Version Control:</h4>
+    <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://github.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Development Tools -->
-  <h4>Development Tools:</h4>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  </a>
-  <img width="12" />
-  
+  <div>
+    <h4>Development Tools:</h4>
+    <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://visualstudio.microsoft.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Design Software -->
-  <h4>Design Software:</h4>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/premiere.html">
-    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  </a>
+  <div>
+    <h4>Design Software:</h4>
+    <a href="https://www.adobe.com/products/photoshop.html">
+      <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.adobe.com/products/premiere.html">
+      <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+    </a>
+  </div>
 </div>
+
 
 
 
