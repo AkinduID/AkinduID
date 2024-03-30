@@ -12,9 +12,9 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap;">
   <!-- Programming Languages -->
-  <div>
+  <div style="flex: 1 0 auto;">
     <h4>Programming Languages:</h4>
     <a href="https://www.python.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,8 +30,8 @@
   </div>
 
   <!-- Databases -->
-  <div>
-    <h4>Databases:</h4>
+  <div style="flex: 1 0 auto;">
+    <h4>Database:</h4>
     <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     </a>
@@ -39,29 +39,16 @@
   </div>
 
   <!-- Frameworks -->
-  <div>
-    <h4>Frameworks:</h4>
+  <div style="flex: 1 0 auto;">
+    <h4>Framework:</h4>
     <a href="https://opencv.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
     </a>
     <img width="12" />
   </div>
 
-  <!-- Hardware Platforms -->
-  <div>
-    <h4>Hardware Platforms:</h4>
-    <a href="https://www.arduino.cc/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-    </a>
-    <img width="12" />
-    <a href="https://www.raspberrypi.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-    </a>
-    <img width="12" />
-  </div>
-
   <!-- Operating Systems -->
-  <div>
+  <div style="flex: 1 0 auto;">
     <h4>Operating Systems:</h4>
     <a href="https://www.linux.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -73,8 +60,21 @@
     <img width="12" />
   </div>
 
+  <!-- Hardware Platforms -->
+  <div style="flex: 1 0 auto;">
+    <h4>Hardware Platforms:</h4>
+    <a href="https://www.arduino.cc/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.raspberrypi.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+    </a>
+    <img width="12" />
+  </div>
+
   <!-- Version Control -->
-  <div>
+  <div style="flex: 1 0 auto;">
     <h4>Version Control:</h4>
     <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -87,7 +87,7 @@
   </div>
 
   <!-- Development Tools -->
-  <div>
+  <div style="flex: 1 0 auto;">
     <h4>Development Tools:</h4>
     <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -100,7 +100,7 @@
   </div>
 
   <!-- Design Software -->
-  <div>
+  <div style="flex: 1 0 auto;">
     <h4>Design Software:</h4>
     <a href="https://www.adobe.com/products/photoshop.html">
       <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -111,6 +111,7 @@
     </a>
   </div>
 </div>
+
 
 
 
