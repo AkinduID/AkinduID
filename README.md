@@ -13,35 +13,36 @@
 ###
 
 ### Programming Languages:
-- [Python](https://www.python.org/) ![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-- [C++](https://isocpp.org/) ![C++ Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-- [C](https://www.iso.org/standard/74528.html) ![C Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+- [Python](https://www.python.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo">
+- [C++](https://isocpp.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo">
+- [C](https://www.iso.org/standard/74528.html) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo">
 
 ### Database:
-- [MySQL](https://www.mysql.com/) ![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+- [MySQL](https://www.mysql.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo">
 
 ### Framework:
-- [OpenCV](https://opencv.org/) ![OpenCV Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)
+- [OpenCV](https://opencv.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV Logo">
 
 ### Operating Systems:
-- [Linux](https://www.linux.org/) ![Linux Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-- [Windows](https://www.microsoft.com/en-us/windows/) ![Windows Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)
+- [Linux](https://www.linux.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo">
+- [Windows](https://www.microsoft.com/en-us/windows/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows Logo">
 
 ### Hardware Platforms:
-- [Arduino](https://www.arduino.cc/) ![Arduino Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)
-- [Raspberry Pi](https://www.raspberrypi.org/) ![Raspberry Pi Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg)
+- [Arduino](https://www.arduino.cc/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo">
+- [Raspberry Pi](https://www.raspberrypi.org/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi Logo">
 
 ### Version Control:
-- [Git](https://git-scm.com/) ![Git Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-- [GitHub](https://github.com/) ![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+- [Git](https://git-scm.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo">
+- [GitHub](https://github.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo">
 
 ### Development Tools:
-- [Visual Studio Code](https://code.visualstudio.com/) ![VSCode Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-- [Visual Studio](https://visualstudio.microsoft.com/) ![Visual Studio Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)
+- [Visual Studio Code](https://code.visualstudio.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Logo">
+- [Visual Studio](https://visualstudio.microsoft.com/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio Logo">
 
 ### Design Software:
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ![Photoshop Logo](https://skillicons.dev/icons?i=ps)
-- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) ![Premiere Pro Logo](https://skillicons.dev/icons?i=pr)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop Logo">
+- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro Logo">
+
 
 
 ###
