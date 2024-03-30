@@ -12,9 +12,9 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap;">
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); grid-gap: 20px;">
   <!-- Programming Languages -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Programming Languages:</h4>
     <a href="https://www.python.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,8 +29,8 @@
     </a>
   </div>
 
-  <!-- Databases -->
-  <div style="flex: 1 0 auto;">
+  <!-- Database -->
+  <div>
     <h4>Database:</h4>
     <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -38,8 +38,8 @@
     <img width="12" />
   </div>
 
-  <!-- Frameworks -->
-  <div style="flex: 1 0 auto;">
+  <!-- Framework -->
+  <div>
     <h4>Framework:</h4>
     <a href="https://opencv.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -48,7 +48,7 @@
   </div>
 
   <!-- Operating Systems -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Operating Systems:</h4>
     <a href="https://www.linux.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -61,7 +61,7 @@
   </div>
 
   <!-- Hardware Platforms -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Hardware Platforms:</h4>
     <a href="https://www.arduino.cc/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -74,7 +74,7 @@
   </div>
 
   <!-- Version Control -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Version Control:</h4>
     <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -87,7 +87,7 @@
   </div>
 
   <!-- Development Tools -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Development Tools:</h4>
     <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -100,7 +100,7 @@
   </div>
 
   <!-- Design Software -->
-  <div style="flex: 1 0 auto;">
+  <div>
     <h4>Design Software:</h4>
     <a href="https://www.adobe.com/products/photoshop.html">
       <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -111,9 +111,6 @@
     </a>
   </div>
 </div>
-
-
-
 
 
 ###
