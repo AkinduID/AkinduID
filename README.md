@@ -14,19 +14,11 @@
 
 <table>
   <tr>
-    <th>Web Development</th>
     <th>Programming Languages</th>
-    <th>Embedded Systems</th>
+    <th>Web Development</th>
+    <th>Database</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://www.w3.org/standards/history/html52/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
-      </a>
-      <a href="https://www.w3.org/TR/CSS/#css">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-      </a>
-    </td>
     <td>
       <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -36,7 +28,39 @@
       </a>
       <a href="https://www.iso.org/standard/74528.html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+      </a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+      </a>
+      <a href="https://www.java.com/">
+        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+      </a>
     </td>
+    <td>
+      <a href="https://www.w3.org/standards/history/html52/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+      </a>
+      <a href="https://www.w3.org/TR/CSS/#css">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+      </a>
+      <a href="https://streamlit.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
+      </a>
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+      </a>
+  </tr>
+  <tr>
+    <th>IoT Embedded Systems</th>
+    <th>Framworks and Libraries</th>
+    <th>Robotics</th>
+  </tr>
+  <tr>
     <td>
       </a>
       <a href="https://www.arduino.cc/">
@@ -45,46 +69,49 @@
       <a href="https://www.raspberrypi.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"/>
       </a>
+      <a href="https://www.espressif.com/en/products/socs/esp32">
+        <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" height="30" alt="esp32 logo"/>
+      </a>
     </td>
-  </tr>
-  <tr>
-    <th>Database</th>
-    <th>Robotics</th>
-    <th>Framworks</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+     <td>
+      <a href="https://opencv.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+      </a>
+      <a href="https://numpy.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+      </a>
+      <a href="https://pandas.pydata.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
       </a>
     </td>
     <td>
       <a href="https://www.ros.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo" />
       </a>
-      <a href="https://www.linux.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://opencv.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+      <a href="https://gazebosim.org/home">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="30" alt="gazebo logo" />
       </a>
     </td>
   </tr>
   <tr>
-    <th>IDEs</th>
-    <th>Version Control</th>
+    <th>IDEs and Tools</th>
     <th>Digital Media</th>
+    <th>Operating Systems</th>
   </tr>
   <tr>
     <td>
       <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   
- height="30" alt="vscode logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
       </a>
-    </td>
-    <td>
+      <a href="https://visualstudio.microsoft.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="30" alt="visualstudio logo" />
+      </a>
+      <a href="https://platformio.org/">
+        <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" height="30" alt="platformio logo" />
+      </a>
+      <a href="https://www.jetbrains.com/datagrip/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" />
+      </a>
       <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
       </a>
@@ -101,6 +128,14 @@
       </a>
       <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo" />
+      </a>
+    </td>
+    <td>
+    <a href="https://www.microsoft.com/en-us/windows/windows-11?r=1">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="win11 logo" />
+      </a>
+      <a href="https://ubuntu.com/">
+        <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo" />
       </a>
     </td>
   </tr>
