@@ -83,6 +83,9 @@
       <a href="https://pandas.pydata.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
       </a>
+       <a href="https://matplotlib.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlibs-original.svg" height="30" alt="matplotlib logo" />
+      </a>
     </td>
     <td>
       <a href="https://www.ros.org/">
