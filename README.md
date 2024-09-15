@@ -12,6 +12,94 @@
 
 ###
 
+<table>
+  <tr>
+    <th>Web Development</th>
+    <th>Programming Languages</th>
+    <th>Embedded Systems</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.w3.org/standards/history/html52/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+      </a>
+      <a href="https://www.w3.org/TR/CSS/#css">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+      </a>
+      <a href="https://isocpp.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+      </a>
+      <a href="https://www.iso.org/standard/74528.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+    </td>
+    <td>
+      </a>
+      <a href="https://www.arduino.cc/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+      </a>
+      <a href="https://www.raspberrypi.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Other</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.ros.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo" />
+      </a>
+      <a href="https://www.linux.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+      </a>
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+      </a>
+      <a href="https://opencv.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>IDEs and Tools</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+      </a>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   
+ height="30" alt="vscode logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.adobe.com/products/photoshop.html">
+        <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
+      </a>
+      <a href="https://www.adobe.com/products/illustrator.html">
+        <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
+      </a>
+      <a href="https://www.adobe.com/products/premiere.html">
+        <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="left">
   <a href="https://www.w3.org/standards/history/html52/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"  />
