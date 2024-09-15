@@ -61,7 +61,10 @@
 <a href="https://www.adobe.com/products/photoshop.html">
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </a>
-  
+<img width="12" />
+<a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+</a>
 <img width="12" />
 <a href="https://www.adobe.com/products/premiere.html">
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
