@@ -46,6 +46,9 @@
 <a href="https://www.raspberrypi.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
 </a>
+  <a href="https://www.ros.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo"  />
+</a>
 <img width="12" />
 <a href="https://www.linux.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
