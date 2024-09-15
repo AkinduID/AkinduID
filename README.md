@@ -56,7 +56,7 @@
       </a>
   </tr>
   <tr>
-    <th>IoT Embedded Systems</th>
+    <th>IoT & Embedded Systems</th>
     <th>Framworks and Libraries</th>
     <th>Robotics</th>
   </tr>
