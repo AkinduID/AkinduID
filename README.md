@@ -14,10 +14,10 @@
 
 <div align="left">
   <a href="https://www.w3.org/standards/history/html52/">
-    <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/python/html5-original.svg" height="30" alt="html logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"  />
 </a>
   <a href="https://www.w3.org/TR/CSS/#css">
-    <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/python/css3-original.svg" height="30" alt="css logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
 </a>
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
