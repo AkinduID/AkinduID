@@ -48,10 +48,16 @@
     </td>
   </tr>
   <tr>
-    <th>Other</th>
-    <th></th>
+    <th>Database</th>
+    <th>Robotics</th>
+    <th>Framworks</th>
   </tr>
   <tr>
+    <td>
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+      </a>
+    </td>
     <td>
       <a href="https://www.ros.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo" />
@@ -59,31 +65,31 @@
       <a href="https://www.linux.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
       </a>
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-      </a>
     </td>
     <td>
-      <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-      </a>
       <a href="https://opencv.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
       </a>
     </td>
   </tr>
   <tr>
-    <th>IDEs and Tools</th>
-    <th></th>
+    <th>IDEs</th>
+    <th>Version Control</th>
+    <th>Digital Media</th>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-      </a>
       <a href="https://code.visualstudio.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   
  height="30" alt="vscode logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+      </a>
+      <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
       </a>
     </td>
     <td>
@@ -99,7 +105,7 @@
     </td>
   </tr>
 </table>
-
+<!--dv>
 <div align="left">
   <a href="https://www.w3.org/standards/history/html52/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"  />
@@ -165,7 +171,7 @@
 <a href="https://www.adobe.com/products/premiere.html">
     <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
 </a>
-  
+  <div-->
 </div>
 
 ###
