@@ -15,8 +15,8 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th>Web Development</th>
-    <th>Database</th>
+    <th>UI</th>
+    <th>Backend</th>
   </tr>
   <tr>
     <td>
@@ -46,13 +46,16 @@
       <a href="https://streamlit.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
       </a>
-      <a href="https://fastapi.tiangolo.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+      <a href="https://wiki.python.org/moin/PyQt">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo" />
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+      </a>
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
       </a>
   </tr>
   <tr>
@@ -76,6 +79,9 @@
      <td>
       <a href="https://opencv.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+      </a>
+       <a href="https://wiki.python.org/moin/PyQt">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="MediaPipe logo" />
       </a>
       <a href="https://numpy.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
