@@ -80,8 +80,8 @@
       <a href="https://opencv.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
       </a>
-       <a href="https://wiki.python.org/moin/PyQt">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="MediaPipe logo" />
+       <a href="https://ai.google.dev/edge/mediapipe/framework">
+        <img src="https://viz.mediapipe.dev/logo.png" height="30" alt="MediaPipe logo" />
       </a>
       <a href="https://numpy.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
