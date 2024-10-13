@@ -35,6 +35,9 @@
       <a href="https://www.java.com/">
         <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
       </a>
+      <a href="https://opensource.ieee.org/vasg">
+        <img src = "https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w240-h480-rw" height="30" alt="vhdl logo" />
+      </a>
     </td>
     <td>
       <a href="https://www.w3.org/standards/history/html52/">
@@ -117,6 +120,9 @@
       </a>
       <a href="https://platformio.org/">
         <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" height="30" alt="platformio logo" />
+      </a>
+      <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html">
+        <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=128&q=100" height="30" alt="vivado logo" />
       </a>
       <a href="https://www.jetbrains.com/datagrip/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" />
