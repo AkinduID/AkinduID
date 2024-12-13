@@ -19,6 +19,7 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 [![VHDL](https://img.shields.io/badge/VHDL-764ABC?style=flat&logoColor=white)](https://opensource.ieee.org/vasg)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/standards/history/html52/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 #### Frameworks and Libraries
@@ -45,7 +46,6 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
