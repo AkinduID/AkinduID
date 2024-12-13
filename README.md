@@ -55,6 +55,7 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)](https://aka.ms/terminal)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white)](https://canva.com)
 
 
 ###
