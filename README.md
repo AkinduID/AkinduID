@@ -10,7 +10,7 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 
 <h3 align="left">Tech Stack</h3>
 
-#### Programming Languages and Frameworks
+#### Computational Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
