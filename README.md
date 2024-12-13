@@ -10,219 +10,49 @@
 
 <h3 align="left">Tech Stack</h3>
 
-###
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![VHDL](https://img.shields.io/badge/VHDL-764ABC?style=flat-square&logoColor=white)](https://opensource.ieee.org/vasg)
 
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <th>UI</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-      </a>
-      <a href="https://isocpp.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-      </a>
-      <a href="https://www.iso.org/standard/74528.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-      </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-      </a>
-      <a href="https://www.java.com/">
-        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-      </a>
-      <a href="https://opensource.ieee.org/vasg">
-        <img src = "https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w240-h480-rw" height="30" alt="vhdl logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3.org/standards/history/html52/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
-      </a>
-      <a href="https://www.w3.org/TR/CSS/#css">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-      </a>
-      <a href="https://streamlit.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
-      </a>
-      <a href="https://wiki.python.org/moin/PyQt">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-      </a>
-      <a href="https://fastapi.tiangolo.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
-      </a>
-  </tr>
-  <tr>
-    <th>IoT & Embedded Systems</th>
-    <th>Framworks and Libraries</th>
-    <th>Robotics</th>
-  </tr>
-  <tr>
-    <td>
-      </a>
-      <a href="https://www.arduino.cc/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-      </a>
-      <a href="https://www.raspberrypi.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"/>
-      </a>
-      <a href="https://www.espressif.com/en/products/socs/esp32">
-        <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" height="30" alt="esp32 logo"/>
-      </a>
-    </td>
-     <td>
-      <a href="https://opencv.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
-      </a>
-       <a href="https://ai.google.dev/edge/mediapipe/framework">
-        <img src="https://viz.mediapipe.dev/logo.png" height="30" alt="MediaPipe logo" />
-      </a>
-      <a href="https://numpy.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-      </a>
-      <a href="https://pandas.pydata.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-      </a>
-       <a href="https://matplotlib.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.ros.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo" />
-      </a>
-      <a href="https://gazebosim.org/home">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="30" alt="gazebo logo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>IDEs and Tools</th>
-    <th>Digital Media</th>
-    <th>Operating Systems</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-      </a>
-      <a href="https://visualstudio.microsoft.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="30" alt="visualstudio logo" />
-      </a>
-      <a href="https://platformio.org/">
-        <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" height="30" alt="platformio logo" />
-      </a>
-      <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html">
-        <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=128&q=100" height="30" alt="vivado logo" />
-      </a>
-      <a href="https://www.jetbrains.com/datagrip/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" />
-      </a>
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-      </a>
-      <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.adobe.com/products/photoshop.html">
-        <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
-      </a>
-      <a href="https://www.adobe.com/products/illustrator.html">
-        <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
-      </a>
-      <a href="https://www.adobe.com/products/premiere.html">
-        <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo" />
-      </a>
-    </td>
-    <td>
-    <a href="https://www.microsoft.com/en-us/windows/windows-11?r=1">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="win11 logo" />
-      </a>
-      <a href="https://ubuntu.com/">
-        <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!--dv>
-<div align="left">
-  <a href="https://www.w3.org/standards/history/html52/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"  />
-</a>
-  <a href="https://www.w3.org/TR/CSS/#css">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-</a>
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</a>
-<img width="12" />
-<a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</a>
-<img width="12" />
-<a href="https://www.iso.org/standard/74528.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</a>
-<img width="12" />
-<a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</a>
-<img width="12" />
-<a href="https://opencv.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-</a>
-<img width="12" />
-<a href="https://www.arduino.cc/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</a>
-<img width="12" />
-<a href="https://www.raspberrypi.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-</a>
-  <a href="https://www.ros.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo"  />
-</a>
-<img width="12" />
-<a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</a>
-<img width="12" />
-<a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</a>
-<img width="12" />
-<a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</a>
-<img width="12" />
-<a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</a>
-<img width="12" />
-<a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-</a>
-<img width="12" />
-<a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-</a>
-<img width="12" />
-<a href="https://www.adobe.com/products/premiere.html">
-    <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-</a>
-  <div-->
-</div>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/standards/history/html52/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://wiki.python.org/moin/PyQt)
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
+[![ESP32](https://img.shields.io/badge/ESP32-003E62?style=flat-square&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-FFCC33?style=flat-square&logoColor=black)](https://ai.google.dev/edge/mediapipe/framework)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-00427E?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)](https://www.ros.org/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-009BDE?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/home)
+
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logoColor=white)](https://platformio.org/)
+[![Vivado](https://img.shields.io/badge/Vivado-2D2D72?style=flat-square&logoColor=white)](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
+[![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11?r=1)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 
 ###
 
