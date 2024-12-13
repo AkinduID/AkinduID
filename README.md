@@ -1,6 +1,6 @@
 <h1 align="left">Hello There!</h1>
 I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science and Engineering with a focus on Integrated Computer Engineering. I'm diving into areas like Embedded Systems 💻, IoT 🌐, Robotics 🤖, Automation ⚙️, Electronics 🔧, and Microcontroller Programming 🖥️, as well as Computer Vision 👁️ and Image Processing 🖼️. Apart from tech, I'm also into photo editing 📸, photography 🌄, and graphic design 🎨. I'm always looking for opportunities to apply my skills to creative and impactful projects!
-<h3 align="left">Github Stats</h3>
+<h2 align="left">Github Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akinduid&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=1a101c25&icon_color=9595ea&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinduid&hide=Powershell,Makefile,Javascript,Perl,Pascal,Shell,Cmake,Tcl,Jupyter%20Notebook&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only" height="150" alt="languages graph"  />
@@ -8,7 +8,7 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h3>
 
 #### Computational Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -62,7 +62,7 @@ I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science a
 
 ###
 
-<h3 align="left">Connect with Me</h3>
+<h2 align="left">Connect with Me</h3>
 
 ###
 
