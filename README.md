@@ -15,6 +15,136 @@
 
 <h2 align="left">Tech Stack</h3>
 
+<table>
+        <tbody>
+            <tr>
+                <td>Computational Languages</td>
+                <td>
+                    <a href="https://www.python.org/">
+                        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+                    </a>
+                    <a href="https://isocpp.org/">
+                        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+                    </a>
+                    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+                        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+                    </a>
+                    <a href="https://www.java.com/">
+                        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+                    </a>
+                    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+                        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+                    </a>
+                    <a href="https://en.wikipedia.org/wiki/VHDL">
+                        <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Frameworks and Libraries</td>
+                <td>
+                    <a href="https://opencv.org/">
+                        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+                    </a>
+                    <a href="https://mediapipe.dev/">
+                        <img src="https://img.shields.io/badge/MediaPipe-2196F3?style=flat&logo=google&logoColor=white"/>
+                    </a>
+                    <a href="https://numpy.org/">
+                        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+                    </a>
+                    <a href="https://pandas.pydata.org/">
+                        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+                    </a>
+                    <a href="https://matplotlib.org/">
+                        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
+                    </a>
+                    <a href="https://www.qt.io/">
+                        <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white"/>
+                    </a>
+                    <a href="https://fastapi.tiangolo.com/">
+                        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+                    </a>
+                    <a href="https://streamlit.io/">
+                        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Embedded Systems and Robotics</td>
+                <td>
+                    <a href="https://www.arduino.cc/">
+                        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+                    </a>
+                    <a href="https://www.raspberrypi.org/">
+                        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white"/>
+                    </a>
+                    <a href="https://www.espressif.com/en/products/socs/esp32">
+                        <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white"/>
+                    </a>
+                    <a href="https://www.ros.org/">
+                        <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+                    </a>
+                    <a href="http://gazebosim.org/">
+                        <img src="https://img.shields.io/badge/Gazebo-FF6C37?style=flat&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Dev Tools and Environments</td>
+                <td>
+                    <a href="https://code.visualstudio.com/">
+                        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+                    </a>
+                    <a href="https://visualstudio.microsoft.com/">
+                        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+                    </a>
+                    <a href="https://platformio.org/">
+                        <img src="https://img.shields.io/badge/PlatformIO-FF7F32?style=flat&logo=platformio&logoColor=white"/>
+                    </a>
+                    <a href="https://www.vivado.com/">
+                        <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
+                    </a>
+                    <a href="https://www.mysql.com/">
+                        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+                    </a>
+                    <a href="https://git-scm.com/">
+                        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+                    </a>
+                    <a href="https://github.com/">
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+                    </a>
+                    <a href="https://jupyter.org/">
+                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+                    </a>
+                    <a href="https://colab.research.google.com/">
+                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
+                    </a>
+                    <a href="https://ubuntu.com/">
+                        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Design and Media</td>
+                <td>
+                    <a href="https://www.adobe.com/products/photoshop.html">
+                        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
+                    </a>
+                    <a href="https://www.adobe.com/products/illustrator.html">
+                        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
+                    </a>
+                    <a href="https://www.adobe.com/products/premiere.html">
+                        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
+                    </a>
+                    <a href="https://www.canva.com/">
+                        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
 #### Computational Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
