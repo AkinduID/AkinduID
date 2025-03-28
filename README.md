@@ -33,7 +33,7 @@
                         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
                     </a>
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-                        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+                        <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
                     </a>
                     <a href="https://en.wikipedia.org/wiki/VHDL">
                         <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
@@ -49,7 +49,10 @@
                     </a>
                   <a href="https://www.markdownguide.org/">
                         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
-                    </a>
+                  </a>
+                  <a href="https://ballerina.io/"/>
+                    <img src = "https://img.shields.io/badge/Ballerina-2496ED?logo=ballerina&logoColor=fff"/>
+                  </a>
                 </td>
             </tr>
             <tr>
@@ -140,6 +143,9 @@
                   <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
                     </a>
+                  <a href="https://www.docker.com/"/>
+                    <img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
+                  </a>
                 </td>
             </tr>
             <tr>
