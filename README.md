@@ -53,6 +53,9 @@
                   <a href="https://ballerina.io/"/>
                     <img src = "https://img.shields.io/badge/Ballerina-2496ED?logo=ballerina&logoColor=fff"/>
                   </a>
+                  <a href="https://www.w3schools.com/js/"/>
+                    <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+                  </a>
                 </td>
             </tr>
             <tr>
