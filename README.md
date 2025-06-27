@@ -156,7 +156,7 @@
                 </td>
             </tr>
           <tr>
-                <td>Tools</td>
+                <td>IDEs</td>
                 <td>
                   <a href="https://code.visualstudio.com/">
                         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -166,18 +166,6 @@
                     </a>
                    <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
-                    </a>
-                    <a href="https://www.adobe.com/products/photoshop.html">
-                        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
-                    </a>
-                    <a href="https://www.adobe.com/products/illustrator.html">
-                        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
-                    </a>
-                    <a href="https://www.adobe.com/products/premiere.html">
-                        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
-                    </a>
-                    <a href="https://www.canva.com/">
-                        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
                     </a>
                 </td>
             </tr>
