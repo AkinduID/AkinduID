@@ -30,7 +30,7 @@
                         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
                     </a>
                     <a href="https://www.java.com/">
-                        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
                     </a>
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                         <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
@@ -96,9 +96,6 @@
                   <a href="https://www.vivado.com/">
                         <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
                     </a>
-                  <a href="https://nodered.org/">
-                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
-                  </a>
                 </td>
             </tr>
             <tr>
@@ -110,11 +107,8 @@
                     <a href="https://github.com/">
                         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
                     </a>
-                    <a href="https://ubuntu.com/">
-                        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-                    </a>
-                  <a href="https://www.microsoft.com/en-us/windows/windows-11?r=1">
-                        <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=windows11&logoColor=white"/>
+                    <a href="https://www.linuxfoundation.org/">
+                        <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
                     </a>
                   <a href="https://www.docker.com/"/>
                     <img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
@@ -122,7 +116,7 @@
                 </td>
             </tr>
             <tr>
-                <td>UI/UX</td>
+                <td>Frontend Development</td>
                 <td>
                   <a href="https://www.w3.org/standards/history/html52/">
                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -136,10 +130,19 @@
                   <a href="https://www.qt.io/">
                         <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white"/>
                     </a>
+                  <a href="https://react.dev/">
+                        <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+                    </a>
+                  <a href="https://redux.js.org/">
+                        <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"/>
+                    </a>
+                                    <a href="https://nodered.org/">
+                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
           <tr>
-                <td>Web Dev</td>
+                <td>Backend Development</td>
                 <td>
                   <a href="https://fastapi.tiangolo.com/">
                         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
