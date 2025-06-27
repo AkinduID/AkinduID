@@ -18,7 +18,7 @@
 <table>
         <tbody>
             <tr>
-                <td>Computational Languages</td>
+                <td>Programming Languages</td>
                 <td>
                     <a href="https://www.python.org/">
                         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -38,20 +38,8 @@
                     <a href="https://en.wikipedia.org/wiki/VHDL">
                         <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
                     </a>
-                  <a href="https://www.mysql.com/">
-                        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-                    </a>
-                  <a href="https://www.w3.org/standards/history/html52/">
-                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-                    </a>
-                  <a href="https://www.w3.org/TR/CSS/#css">
-                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-                    </a>
                   <a href="https://www.markdownguide.org/">
                         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
-                  </a>
-                  <a href="https://ballerina.io/"/>
-                    <img src = "https://img.shields.io/badge/Ballerina-2496ED?logo=ballerina&logoColor=fff"/>
                   </a>
                   <a href="https://www.w3schools.com/js/"/>
                     <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
@@ -59,17 +47,8 @@
                 </td>
             </tr>
             <tr>
-                <td>Frameworks and Libraries</td>
+                <td>ML/AI</td>
                 <td>
-                  <a href="https://streamlit.io/">
-                        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-                    </a>
-                  <a href="https://www.qt.io/">
-                        <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white"/>
-                    </a>
-                  <a href="https://fastapi.tiangolo.com/">
-                        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-                    </a>
                     <a href="https://opencv.org/">
                         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
                     </a>
@@ -85,9 +64,12 @@
                     <a href="https://matplotlib.org/">
                         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
                     </a>
-                  <a href="https://nodered.org/">
-                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
-                  </a>
+                  <a href="https://jupyter.org/">
+                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+                    </a>
+                    <a href="https://colab.research.google.com/">
+                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
+                    </a>
                 </td>
             </tr>
             <tr>
@@ -114,28 +96,19 @@
                   <a href="https://www.vivado.com/">
                         <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
                     </a>
+                  <a href="https://nodered.org/">
+                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
             <tr>
-                <td>Dev Tools and Environments</td>
+                <td>DevOps</td>
                 <td>
-                    <a href="https://code.visualstudio.com/">
-                        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-                    </a>
-                    <a href="https://visualstudio.microsoft.com/">
-                        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
-                    </a>
                     <a href="https://git-scm.com/">
                         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
                     </a>
                     <a href="https://github.com/">
                         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-                    </a>
-                    <a href="https://jupyter.org/">
-                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-                    </a>
-                    <a href="https://colab.research.google.com/">
-                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
                     </a>
                     <a href="https://ubuntu.com/">
                         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
@@ -143,17 +116,54 @@
                   <a href="https://www.microsoft.com/en-us/windows/windows-11?r=1">
                         <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=windows11&logoColor=white"/>
                     </a>
-                  <a href="https://www.jetbrains.com/datagrip/">
-                        <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
-                    </a>
                   <a href="https://www.docker.com/"/>
                     <img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
                   </a>
                 </td>
             </tr>
             <tr>
-                <td>Design and Media</td>
+                <td>UI/UX</td>
                 <td>
+                  <a href="https://www.w3.org/standards/history/html52/">
+                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+                    </a>
+                  <a href="https://www.w3.org/TR/CSS/#css">
+                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+                    </a>
+                  <a href="https://streamlit.io/">
+                        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+                    </a>
+                  <a href="https://www.qt.io/">
+                        <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+          <tr>
+                <td>Web Dev</td>
+                <td>
+                  <a href="https://fastapi.tiangolo.com/">
+                        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+                    </a>
+                    <a href="https://ballerina.io/"/>
+                    <img src = "https://img.shields.io/badge/Ballerina-2496ED?logo=ballerina&logoColor=fff"/>
+                  </a>
+                  <a href="https://www.mysql.com/">
+                        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+          <tr>
+                <td>Tools</td>
+                <td>
+                  <a href="https://code.visualstudio.com/">
+                        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+                    </a>
+                    <a href="https://visualstudio.microsoft.com/">
+                        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+                    </a>
+                   <a href="https://www.jetbrains.com/datagrip/">
+                        <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
+                    </a>
                     <a href="https://www.adobe.com/products/photoshop.html">
                         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
                     </a>
