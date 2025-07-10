@@ -64,12 +64,6 @@
                     <a href="https://matplotlib.org/">
                         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
                     </a>
-                  <a href="https://jupyter.org/">
-                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-                    </a>
-                    <a href="https://colab.research.google.com/">
-                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
-                    </a>
                 </td>
             </tr>
             <tr>
@@ -156,7 +150,7 @@
                 </td>
             </tr>
           <tr>
-                <td>IDEs</td>
+                <td>IDEs & Tools</td>
                 <td>
                   <a href="https://code.visualstudio.com/">
                         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -166,6 +160,12 @@
                     </a>
                    <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
+                    </a>
+                  <a href="https://jupyter.org/">
+                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+                    </a>
+                    <a href="https://colab.research.google.com/">
+                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
                     </a>
                 </td>
             </tr>
