@@ -43,9 +43,6 @@
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                         <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
                     </a>
-                    <a href="https://en.wikipedia.org/wiki/VHDL">
-                        <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
-                    </a>
                   <a href="https://www.markdownguide.org/">
                         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
                   </a>
@@ -72,6 +69,11 @@
                     <a href="https://matplotlib.org/">
                         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
                     </a>
+                    <a href="https://www.tensorflow.org/">
+                        <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
+                    </a>
+                    <a href="https://pytorch.org/">
+                        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
                 </td>
             </tr>
             <tr>
@@ -95,13 +97,27 @@
                     <a href="http://gazebosim.org/">
                         <img src="https://img.shields.io/badge/Gazebo-FF6C37?style=flat&logoColor=white"/>
                     </a>
-                  <a href="https://www.vivado.com/">
+                </td>
+            </tr>
+            <tr>
+                <td>FPGA and Hardware Acceleration</td>
+                <td>
+                    <a href="https://www.vivado.com/">
                         <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
+                    </a>
+                    <a href="https://en.wikipedia.org/wiki/VHDL">
+                        <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
+                    </a>
+                    <a href="https://en.wikipedia.org/wiki/Verilog">
+                        <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=flat&logoColor=white"/>
+                    </a>
+                    <a href="https://docs.nvidia.com/cuda/">
+                        <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff"/>
                     </a>
                 </td>
             </tr>
             <tr>
-                <td>DevOps</td>
+                <td>DevOps & Cloud</td>
                 <td>
                     <a href="https://git-scm.com/">
                         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -109,16 +125,16 @@
                     <a href="https://github.com/">
                         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
                     </a>
-                    <a href="https://www.linuxfoundation.org/">
-                        <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-                    </a>
                   <a href="https://www.docker.com/"/>
                     <img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
+                  </a>
+                  <a href="https://github.com/features/actions"/>
+                    <img src = "https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
                   </a>
                 </td>
             </tr>
             <tr>
-                <td>Frontend Development</td>
+                <td>Frontend and UI</td>
                 <td>
                   <a href="https://www.w3.org/standards/history/html52/">
                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -144,7 +160,7 @@
                 </td>
             </tr>
           <tr>
-                <td>Backend Development</td>
+                <td>Backend, API & Database</td>
                 <td>
                   <a href="https://fastapi.tiangolo.com/">
                         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
@@ -152,19 +168,25 @@
                     <a href="https://ballerina.io/"/>
                     <img src = "https://img.shields.io/badge/Ballerina-2496ED?logo=ballerina&logoColor=fff"/>
                   </a>
+                  <a href="https://en.wikipedia.org/wiki/REST">
+                        <img src="https://img.shields.io/badge/REST-009688?style=flat&logo=&logoColor=white"/>
+                    </a>
+                    <a href="https://graphql.org/">
+                        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff"/>
+                    </a>
                   <a href="https://www.mysql.com/">
                         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
                     </a>
                 </td>
             </tr>
           <tr>
-                <td>IDEs & Tools</td>
+                <td>IDEs & Dev. Environments</td>
                 <td>
                   <a href="https://code.visualstudio.com/">
-                        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+                        <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white"/>
                     </a>
                     <a href="https://visualstudio.microsoft.com/">
-                        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+                        <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
                     </a>
                    <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
@@ -174,6 +196,15 @@
                     </a>
                     <a href="https://colab.research.google.com/">
                         <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
+                    </a>
+                    <a href="https://ubuntu.com/">
+                        <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+                    </a>
+                    <a href="https://www.microsoft.com/en-us/windows">
+                        <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+                    </a>
+                    <a href="https://www.microsoft.com/en-us/windows">
+                        <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
                     </a>
                 </td>
             </tr>
