@@ -173,7 +173,7 @@
                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
                     </a>
                   <a href="https://www.w3.org/TR/CSS/#css">
-                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
                     </a>
                   <a href="https://streamlit.io/">
                         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
