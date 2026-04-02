@@ -26,7 +26,7 @@
 <table>
         <tbody>
             <tr>
-                <td>Programming Languages</td>
+                <td>Programming & Scripting Languages</td>
                 <td>
                     <a href="https://www.python.org/">
                         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -43,23 +43,23 @@
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                         <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
                     </a>
-                  <a href="https://www.markdownguide.org/">
-                        <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
-                  </a>
                   <a href="https://www.w3schools.com/js/"/>
                     <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+                  </a>
+                   <a href="https://www.typescriptlang.org/"/>
+                    <img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+                  </a>
+                  <a href="https://learn.microsoft.com/en-us/powershell/"/>
+                    <img src = "https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff"/>
+                  </a>
+                  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"/>
+                    <img src = "https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
                   </a>
                 </td>
             </tr>
             <tr>
-                <td>ML/AI</td>
+                <td>Data Science & ML</td>
                 <td>
-                    <a href="https://opencv.org/">
-                        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-                    </a>
-                    <a href="https://mediapipe.dev/">
-                        <img src="https://img.shields.io/badge/MediaPipe-2196F3?style=flat&logo=google&logoColor=white"/>
-                    </a>
                     <a href="https://numpy.org/">
                         <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
                     </a>
@@ -69,15 +69,42 @@
                     <a href="https://matplotlib.org/">
                         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
                     </a>
+                    <a href="https://scikit-learn.org/">
+                        <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"/>
+                    </a>
+                  <a href="https://jupyter.org/">
+                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+                    </a>
+                    <a href="https://colab.research.google.com/">
+                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Deep Learning & Computer Vision</td>
+                <td>
+                    <a href="https://opencv.org/">
+                        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+                    </a>
+                    <a href="https://mediapipe.dev/">
+                        <img src="https://img.shields.io/badge/MediaPipe-2196F3?style=flat&logo=google&logoColor=white"/>
+                    </a>
                     <a href="https://www.tensorflow.org/">
                         <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
                     </a>
                     <a href="https://pytorch.org/">
                         <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
+                    </a>
+                    <a href="https://onnx.ai/">
+                        <img src="https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white"/>
+                    </a>
+                    <a href="https://docs.ultralytics.com/">
+                        <img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff"/>
+                    </a>
                 </td>
             </tr>
             <tr>
-                <td>Embedded Systems and Robotics</td>
+                <td>Embedded Systems & Robotics</td>
                 <td>
                     <a href="https://www.arduino.cc/">
                         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
@@ -97,10 +124,13 @@
                     <a href="http://gazebosim.org/">
                         <img src="https://img.shields.io/badge/Gazebo-FF6C37?style=flat&logoColor=white"/>
                     </a>
+                    <a href="https://nodered.org/">
+                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
             <tr>
-                <td>FPGA and Hardware Acceleration</td>
+                <td>Hardware Acceleration & FPGA</td>
                 <td>
                     <a href="https://www.vivado.com/">
                         <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
@@ -131,10 +161,13 @@
                   <a href="https://github.com/features/actions"/>
                     <img src = "https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
                   </a>
+                  <a href="https://pages.github.com/"/>
+                    <img src = "https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
             <tr>
-                <td>Frontend and UI</td>
+                <td>Frontend & UI</td>
                 <td>
                   <a href="https://www.w3.org/standards/history/html52/">
                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -154,9 +187,6 @@
                   <a href="https://redux.js.org/">
                         <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"/>
                     </a>
-                                    <a href="https://nodered.org/">
-                        <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
-                  </a>
                 </td>
             </tr>
           <tr>
@@ -177,6 +207,9 @@
                   <a href="https://www.mysql.com/">
                         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
                     </a>
+                    <a href="https://www.postman.com/">
+                        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+                    </a>
                 </td>
             </tr>
           <tr>
@@ -191,12 +224,6 @@
                    <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
                     </a>
-                  <a href="https://jupyter.org/">
-                        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-                    </a>
-                    <a href="https://colab.research.google.com/">
-                        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white"/>
-                    </a>
                     <a href="https://ubuntu.com/">
                         <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
                     </a>
@@ -206,6 +233,26 @@
                     <a href="https://www.microsoft.com/en-us/windows">
                         <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
                     </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Documentation</td>
+                <td>
+                  <a href="https://www.latex-project.org/"/>
+                    <img src = "https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff"/>
+                  </a>
+                  <a href="https://www.markdownguide.org/">
+                        <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+                  </a>
+                  <a href="https://www.mkdocs.org/">
+                        <img src="https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff"/>
+                  </a>
+                  <a href="https://about.readthedocs.com/">
+                        <img src="https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=fff"/>
+                  </a>
+                  <a href="https://www.sphinx-doc.org/en/master/">
+                        <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff"/>
+                  </a>
                 </td>
             </tr>
         </tbody>
