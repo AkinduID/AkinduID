@@ -136,7 +136,7 @@
                 <td>Hardware Acceleration & FPGA</td>
                 <td>
                     <a href="https://www.vivado.com/">
-                        <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/Xilinx%20Vivado-FF0000?style=flat&logoColor=white"/>
                     </a>
                     <a href="https://en.wikipedia.org/wiki/VHDL">
                         <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
@@ -147,6 +147,9 @@
                     <a href="https://docs.nvidia.com/cuda/">
                         <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff"/>
                     </a>
+                  <a href="https://digilent.com/reference/programmable-logic/basys-3/start">
+                        <img src="https://img.shields.io/badge/Basys3%20FPGA-0066CC?style=flat&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
             <tr>
