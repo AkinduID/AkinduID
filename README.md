@@ -187,6 +187,9 @@
                   <a href="https://react.dev/">
                         <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
                     </a>
+                  <a href="https://vitejs.dev/">
+                    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+                  </a>
                   <a href="https://redux.js.org/">
                         <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"/>
                     </a>
