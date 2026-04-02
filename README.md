@@ -8,10 +8,10 @@
 <h2 align="left">Github Stats</h3>
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/stats.svg" alt="Snake animation" />
-
-<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/top-langs.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/stats-dark.svg#gh-dark-mode-only" alt="Stats" />
+<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/stats-light.svg#gh-light-mode-only" alt="Stats" />
+<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Langs" />
+<img src="https://raw.githubusercontent.com/akinduid/akinduid/main/profile/top-langs-light.svg#gh-light-mode-only" alt="Top Langs" />
 </div>
 
 <!-- <div align="center">
@@ -310,6 +310,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/akinduid/akinduid/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AkinduID/AkinduID/blob/main/profile/snake-dark.svg#gh-dark-mode-only" />
+<img src="https://github.com/AkinduID/AkinduID/blob/main/profile/snake-light.svg#gh-light-mode-only" />
 
 ###
