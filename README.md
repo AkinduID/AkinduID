@@ -127,6 +127,9 @@
                     <a href="https://nodered.org/">
                         <img src="https://img.shields.io/badge/Node--RED-8F2F23?style=flat&logo=node-red&logoColor=white"/>
                   </a>
+                  <a href="https://mqtt.org/">
+                        <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=MQTT&logoColor=white"/>
+                  </a>
                 </td>
             </tr>
             <tr>
