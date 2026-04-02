@@ -224,6 +224,9 @@
                     <a href="https://visualstudio.microsoft.com/">
                         <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
                     </a>
+                    <a href="https://cmake.org/">
+                      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white"/>
+                    </a>
                    <a href="https://www.jetbrains.com/datagrip/">
                         <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
                     </a>
