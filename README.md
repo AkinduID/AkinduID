@@ -136,13 +136,13 @@
                 <td>Hardware Acceleration & FPGA</td>
                 <td>
                     <a href="https://www.vivado.com/">
-                        <img src="https://img.shields.io/badge/Xilinx%20Vivado-FF0000?style=flat&logoColor=white"/>
+                        <img src="https://custom-icon-badges.demolab.com/badge/Vivado-0078d7.svg?logo=xilinx-vivado-svg&logoColor=white"/>
                     </a>
                     <a href="https://en.wikipedia.org/wiki/VHDL">
                         <img src="https://img.shields.io/badge/VHDL-007ACC?style=flat&logoColor=white"/>
                     </a>
                     <a href="https://en.wikipedia.org/wiki/Verilog">
-                        <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=flat&logoColor=white"/>
+                        <img src="https://custom-icon-badges.demolab.com/badge/Verilog-0078d7.svg?logo=verilog-1&logoColor=white"/>
                     </a>
                     <a href="https://docs.nvidia.com/cuda/">
                         <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff"/>
