@@ -1,9 +1,6 @@
 # Hello There!
 
- * I'm an undergrad at the University of Moratuwa 🎓, studying Computer Science and Engineering with a focus on Integrated Computer Engineering. 
- * I'm diving into areas like Embedded Systems 💻, IoT 🌐, Robotics 🤖, Automation ⚙️, Computer Vision 👁️ and Image Processing 🖼️. 
- * Apart from tech, I'm also into photo editing 📸, photography 🌄, and graphic design 🎨. 
- * I'm always looking for opportunities to apply my skills to creative and impactful projects!
+I enjoy creating intelligent and interactive systems by combining embedded hardware with modern software technologies.
 
 <h2 align="left">Github Stats</h3>
 <div align="center">
